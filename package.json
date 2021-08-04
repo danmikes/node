@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danmikes/dm-pass.git"
+    "url": "https://github.com/danmikes/dm-node.git"
   },
   "keywords": [
     "node",
